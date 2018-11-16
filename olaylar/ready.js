@@ -20,7 +20,7 @@ client.user.setPresence({
         status: 'dnd'
     })
 var oyun = [
-        "z!ardım | z!davet ",
+        "z!yardım | z!davet ",
         "Zeichen Bot 2.9.9.2 Olarak Güncellenmiştir! https://kralbotdiscord.wordpress.com/",
         "Peders Legend"             
     ];
