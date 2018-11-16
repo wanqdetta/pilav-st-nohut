@@ -1,4 +1,4 @@
-﻿const chalk = require('chalk');
+const chalk = require('chalk');
 const moment = require('moment');
 const Discord = require('discord.js');
 const ayarlar = require('../ayarlar.json');
@@ -14,15 +14,15 @@ module.exports = client => {
 client.user.setUsername(" Kralbot ");
 client.user.setPresence({
         game: {
-            name: `4 Kafadar Oyunda`,
+            name: `Peders Legend `,
             type: 'WATCHING'
         },
         status: 'dnd'
     })
 var oyun = [
-        "k?yardım | k?davet ",
-        "Kralbot Sürümü 2.9.9.2 Olarak Güncellenmiştir! https://kralbotdiscord.wordpress.com/",
-        "4 Kafadar Oyunda"             
+        "z!ardım | z!davet ",
+        "Zeichen Bot 2.9.9.2 Olarak Güncellenmiştir! https://kralbotdiscord.wordpress.com/",
+        "Peders Legend"             
     ];
 
     setInterval(function() {
