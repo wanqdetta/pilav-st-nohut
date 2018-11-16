@@ -468,4 +468,4 @@ if (msg.content.toLowerCase().match(/(discord\.gg\/)|(discordapp\.com\/invite\/)
       };
     })
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN );
